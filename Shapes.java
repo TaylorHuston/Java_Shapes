@@ -5,9 +5,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 /*
- * Simple drawing program
- * Demonstrates drawing rectangles and ovals
- * From "Java How To Program, 10/e, Early Objects" - Chapter 5
+ * Simple drawing program.
+ * Demonstrates drawing rectangles and ovals.
+ * From "Java How To Program, 10/e, Early Objects" - Chapter 5.
  */
 
 public class Shapes extends JPanel {
